@@ -42,11 +42,25 @@ content, rules and guides for conversion can be found alongside this and other
 resources for {{book.product}}.
 
 ## Using this Book
-The {{book.product}} core rule book is divided into the following parts:
+The {{book.product}} is divided into a few parts:
+
+- **Part 1** deals with character creation and character details, as well as a
+  primer on important aspects of the game (how to make ability checks, etc.)
+- **Part 2** covers rules related to playing the game, combat, and magic.
+
+Throughout this book the rules address you, the player or the storyteller. The
+book will occassionally refer to any character or creature taking an action with
+the more generic "actor". As a player, "you" can mean either your character or a
+creature that you control.
 
 ## Players
 Everyone at the table who is playing {{book.product}} is a player. One of
 the players takes on a special role of the storyteller.
+
+Players take on the role of characters in the story, these characters can also
+be referred to as player characters (or PCs), differentiating them from
+non-player characters (NPCs, the characters that a storyteller controls).
+Sometimes a player also controls creatures or other characters.
 
 ### What does the storyteller do?
 The role of the storyteller is important to most games in {{book.product}}
