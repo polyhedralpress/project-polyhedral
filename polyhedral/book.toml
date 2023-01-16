@@ -1,0 +1,13 @@
+[book]
+title = "Polyhedral"
+authors = ["Sean Quinn"]
+description = "A modern, modular role-playing and storytelling game system."
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "../dist/polyhedral"
+create-missing = false
+
+[preprocessor.tera]

@@ -1,0 +1,6 @@
+.history/
+.ignore/
+dist/
+
+scratch
+*.scratch

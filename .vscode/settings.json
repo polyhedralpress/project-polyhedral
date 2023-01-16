@@ -1,0 +1,14 @@
+{
+  "[json]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[jsonc]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[markdown]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  }
+}
