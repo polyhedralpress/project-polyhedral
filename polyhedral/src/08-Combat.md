@@ -1,4 +1,3 @@
-# Combat
 # Chapter 8. Combat and Conflict
 The ring of steel-on-steel, the concussive blast from a cannon sounding above
 the din of battle, the clash of magical energies exploding. Combat can be brutal
@@ -55,3 +54,31 @@ allies are not.
 
 If you are surprised, you can't move or take any action (including bonus actions
 and reactions) on or before your first turn in the combat.
+
+### Initiative
+As discussed in the section on [Game
+Structure](./07-PlayingTheGame.html#initiative-order), initiative is what
+determines the order of action in the scene, and that includes combat.
+
+Every participant makes an Agility check to determine where in the order of
+initiative their turn will fall. The players roll for each of their characters
+and any creature they control while the storyteller makes the Agility check for
+the non-player characters and creatures. Usually the storyteller will roll for
+groups of identical creatures, such that each member of the group acts at the
+same time, but it is up to the storyteller to decide how they will roll
+initiative.
+
+In the event that two or more creatures are tied for the same initiative, you
+can choose how to resolve it, here are a few approaches you might take, you can
+also mix approaches:
+
+- Creatures with the highest Agility act first.
+- Participants that are tied each roll another Agility check, with the highest
+  roll going first among the tied creatures.
+- Player-controlled characters have priority over storyteller-controlled
+  creatures
+- Players decide the order among one another if multiple player-controlled
+  characters have same initiatives. Similarly, if multiple
+  storyteller-controlled creatures have the same initiative, the storyteller
+  decides the order for those creatures.
+
