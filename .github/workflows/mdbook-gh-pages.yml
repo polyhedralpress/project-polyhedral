@@ -35,13 +35,9 @@ jobs:
       - uses: actions-rs/toolchain@v1
         with:
           toolchain: stable
-      - name: Install mdbook
-        uses: peaceiris/actions-mdbook@v1.2.0
-        with:
-          mdbook-version: 'latest'
-      - name: Install mdbook preprocessors
+      - name: Install mdbook and preprocessors
         run: |
-          cargo install mdbook-tera
+          cargo install mdbook mdbook-tera
       - name: Build Project Polyhedral
         run: |
           cd polyhedral
