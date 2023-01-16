@@ -20,3 +20,5 @@
 [Appendix ?: Miscellany](./appendices/X-Miscellany.md)
 
 [License](./LICENSE.md)
+
+[Credits](./CREDITS.md)
