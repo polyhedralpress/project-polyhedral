@@ -39,3 +39,19 @@ A combat encounter follows these steps:
 5. **Begin the next round.** After all participants have taken their turns, the
    current round ends and a new round begins. Repeat step 4 and 5 until the
    combat ends.
+
+### Surpise!
+Bandits lying in wait on the side of a wooded highway to ambush merchants, and
+adventurers descending quietly behind enemy lines to spring an attack. These are
+just two examples of situations where one group might take another by surprise.
+
+At the start of combat, the storyteller determines whether any combatants are
+surprised. If neither side is attempting to hide or be stealthy, both sides are
+aware of each other and there is no surprise round. Otherwise, the Agility
+(Stealth) check of the actors or the group that is hiding compared to the
+passive Mind (Awareness) score of other creatures. If a creature doesn't notice
+the threat it is surprised. A member of a group can be surprised, even if its
+allies are not.
+
+If you are surprised, you can't move or take any action (including bonus actions
+and reactions) on or before your first turn in the combat.
