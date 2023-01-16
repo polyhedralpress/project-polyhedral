@@ -6,6 +6,12 @@ language = "en"
 multilingual = false
 src = "src"
 
+[output.html]
+curly-quotes = true
+git-repository-url = "https://github.com/polyhedralpress/project-polyhedral"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/polyhedralpress/project-polyhedral/edit/main/polyhedral/src/{path}"
+
 [build]
 build-dir = "../dist/polyhedral"
 create-missing = false
