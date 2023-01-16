@@ -82,3 +82,66 @@ also mix approaches:
   storyteller-controlled creatures have the same initiative, the storyteller
   decides the order for those creatures.
 
+### Taking Your Turn
+On your turn you can do the following: **move** a distance up to your speed,
+**take one action** such as making an attack, defending, casting a spell, etc.,
+and use one of your **bonus actions**.
+
+#### Movement
+On your turn you are able to move a distance equal to your speed.
+
+You decide whether to move before, during, or after your action. Your movement
+and the position of enemies might obstruct your ability to take certain actions.
+See the section on Movement and Positioning below for more details.
+
+#### Actions
+You can take any action presented under [Actions](./07-PlayingTheGame.html#actions)
+in Chapter 7, in addition to any actions you have available due to your features
+and talents.
+
+The most common action that characters take in combat, however, is the attack
+action.
+
+#### Bonus Actions
+You may have an ability, from a job, spell, or another source that allows you to
+take a special action on your turn called a bonus action. You can take only one
+bonus action on your turn, in the event that you have access to more than one
+bonus action you must choose which you will use.
+
+Unless a bonus action has specific requirements indicating when it can be taken,
+you choose when to take the bonus action. Anything that prevents you from taking
+actions also prevents you from using your bonus action.
+
+#### Reactions
+Under certain circumstances, or because of an ability that you have, you might
+have the opportunity to take a special action called a reaction. Unlike actions
+and bonus actions, reactions do not necessarily take place on your turn. A
+reaction is a response to a triggering event of some kind. The trigger might
+happen on your turn or on another actor's turn.
+
+Opportunity attacks, described later in this chapter, are a common reaction that
+all creatures can take.
+
+When you use your reaction, you can't take another reaction until the start of
+your next turn. If a reaction triggers on another creature's turn, you can take
+your reaction and the creature who triggered the reaction continues their turn
+after the reaction is resolved.
+
+#### Other Activities in Combat
+In addition to the above, you can do the following on your turn:
+
+- If you are capable of communicating, you are able to do so. You do this
+  alongside the actions you are taking. Examples of this are speaking in short
+  phrases, issuing single-word commands, and making gestures to your allies (or
+  enemies!) alike.
+- You can provide more detail to the actions that you are taking, embellishing
+  them in such a way that effects neither the action you are taking or your
+  movement.
+- You can interact freely with one objetc or feature of the environment, as per
+  the rules on [Free Interactions](./07-PlayingTheGame.html#free-interactions)
+  in Chapter 7.
+
+The storyteller may allow you to perform other activities as part of your turn,
+those along with the above may or may not require an action depending on the
+complexity or level of focus required for the action you are attempting.
+
