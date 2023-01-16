@@ -10,7 +10,7 @@ src = "src"
 curly-quotes = true
 git-repository-url = "https://github.com/polyhedralpress/project-polyhedral"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/polyhedralpress/project-polyhedral/edit/main/polyhedral/src/{path}"
+edit-url-template = "https://github.com/polyhedralpress/project-polyhedral/edit/main/polyhedral/{path}"
 
 [build]
 build-dir = "../dist/polyhedral"
