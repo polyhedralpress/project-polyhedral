@@ -1,18 +1,17 @@
 ## Skill Bonus
 Your skill bonus is based on your total character level. It can be calculated by
-dividing your level by 5 and rounding down (minimum of +0). The maximum skill
-bonus a character can have is +10. For example a level 4 character has a +0
-skill bonus, while a level 21 character has a +4 skill bonus. The table below
-shows you the skill bonus you have at certain levels.
+dividing your level by 5 and rounding up (minimum of +1). The maximum skill
+bonus a character can have is +10. For example a level 4 character has a +1
+skill bonus, while a level 21 character has a +5 skill bonus. The table below
+shows you the levels when your skill bonus increases.
 
 | Level  | Skill Bonus | Level  | Skill Bonus |
 |--------|-------------|--------|-------------|
-| 1      | +0          | 30     | +6          |
-| 5      | +1          | 35     | +7          |
-| 10     | +2          | 40     | +8          |
-| 15     | +3          | 45     | +9          |
-| 20     | +4          | 50+    | +10         |
-| 25     | +5          | &mdash;| &mdash;     |
+| 1      | +1          | 26     | +6          |
+| 6      | +2          | 31     | +7          |
+| 11     | +3          | 36     | +8          |
+| 16     | +4          | 41     | +9          |
+| 21     | +5          | 46     | +10         |
 
 
 ## Skills, Tools, and Knowledges
