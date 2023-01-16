@@ -39,9 +39,6 @@ jobs:
         uses: peaceiris/actions-mdbook@v1.2.0
         with:
           mdbook-version: 'latest'
-      - name: Install mdbook preprocessors
-        run: |
-          (test -x $HOME/.cargo/bin/mdbook-tera || cargo install mdbook-tera --vers "^0.5" --locked)
       - name: Build Project Polyhedral
         run: |
           cd polyhedral
