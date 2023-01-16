@@ -10,4 +10,3 @@ src = "src"
 build-dir = "../dist/polyhedral"
 create-missing = false
 
-[preprocessor.tera]
