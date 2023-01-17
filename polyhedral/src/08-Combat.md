@@ -145,3 +145,80 @@ The storyteller may allow you to perform other activities as part of your turn,
 those along with the above may or may not require an action depending on the
 complexity or level of focus required for the action you are attempting.
 
+## Making an Attack
+Attacking is one of the most common actions in combat. You can make attacks with
+melee weapons, ranged weapons, and spells. If you are ever unsure whether an
+action you are taking is considered an attack, the rules are simple: if the
+action calls for an attack roll the action is an attack.
+
+When you attack another creature, whether it is with a weapon or some spells,
+you make an attack roll. All attacks follow the same structure:
+
+1. **Decide on the attack and choose a target.** Choose what attack you are
+   going to make and select a target within range. The target could be a
+   creature, an object, or a location.
+2. **Determine situational modifiers.** The storyteller will inform you whether
+   or not you have an situational modifiers to your dice pool or your roll,
+   including whether or not the target has cover, if you have advantage or
+   disadvantage, etc.
+3. **Resolve the attack.** When you hit with an attack you roll damage, unless
+   the attack has special rules that say otherwise. Some attacks might cause
+   special effects in addition to, or instead of, damage.
+
+### Attack Rolls
+Your attack roll determines whether or not an attack you make hits or misses its
+target. To make an attack roll, roll 3D and add the appropriate modifiers
+including any dice pool modifiers such as advantage, disadvantage, etc. If the
+total of the roll plus modifiers is equal to or greater than the target's armor
+rating, the attack hits. The armor rating of a character is dependent on their
+equipment and features, while the armor rating of a creature is listed in its
+stat block.
+
+### Melee and Ranged Attacks
+Attacks fall into one of two categories: melee attacks and ranged attacks.
+
+#### Melee Attacks
+A melee attack occurs when you are making a close-quarters attack on another
+creature. There are three common types of melee attacks that you can make in the
+game:
+
+___Melee weapon attack.___ A melee weapon attack is made with weapons that are
+  used to engage in hand-to-hand combat. Axes, swords, polearms, and whips are
+  all examples of weapons that are used to make melee weapon attacks.
+
+___Unarmed strikes.___ Instead of using a weapon, you can use unarmed strikes:
+  punches, kicks, etc. Unless otherwise noted, an unarmed strike does
+  bludgeoning damage equal to your 1 + your Strength modifier (minimum 1).
+
+___Melee spell attack.___ Some spells also allow you to make melee attacks,
+  usually specified as a melee spell attack.
+
+Most creatures have a 5-foot reach, allowing them to attack targets within 5
+feet of them. Some creatures (typically larger creatures) have greater reach,
+noted in descriptions of their actions, including attacks.
+
+#### Ranged Attacks
+Ranged attacks are made with projectile weapons that can target creatures
+further away and within a certain range. When a ranged attack has a single range
+increment, as with most spells, you can't target a creature beyond the indicated
+range. If the ranged attack has two ranges, as with bows, thrown weapons, and
+firearms, the smaller of the two numbers is the weapon's normal range and the
+larger number is the weapon's long range. Attacks made against targets beyond
+the normal range of a weapon have disadvantage. You can't attack a target beyond
+the long range of a weapon.
+
+Your ranged attacks are made with disadvantage if they are made while you are
+within 5 feet of a creature that is hostile toward you and that creature can see
+you and isn't incapacitated. This applies to both ranged weapon attacks and
+ranged spell attacks.
+
+### Hidden Attackers and Obscured Targets
+If a combatant is hidden, because they have concealed themselves or because they
+are invisible, attack rolls made against it have disadvantage. If you make an
+attack against a location where you suspect the hidden creature to be, and it is
+not there, the attack automatically misses.
+
+When you are hidden, you have advantage on attack rolls against creatures that
+cannot see you. If you make an attack while hidden, you give away your location
+regardless of whether you hit or miss with the attack.
+
