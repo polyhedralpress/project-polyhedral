@@ -59,6 +59,11 @@ When a creature is hidden:
 - Attack rolls against it have disadvantage, and the creature's attack rolls
   have advantage.
 
+### Hindered
+When a creature is hindered:
+
+- Every 1 foot of movement costs 2 feet of your speed.
+
 ### Paralyed
 When a creature is paralyzed:
 
