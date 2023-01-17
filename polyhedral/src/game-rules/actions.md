@@ -10,22 +10,22 @@ using one of your skills, tools, or applying your knowledge. In addition as you
 advance in a job, gain talents, or acquire special items you will gain
 additional actions that can be taken.
 
-## Free Interactions
-As part of your movement or any action you take, you can freely interact with
-your equipment and the environment around you. For example, at the start of
-combat when a character moves and makes an attack with their sword they draw it
-from its sheath first before swinging it. The act of drawing the sword happens
-as part of the character's movemnet or the Attack action they take, they do not
-need to declare a separate action to draw the weapon.
-
-Generally speaking, characters can interact freely with their surroundings once
-each turn assuming the interaction does not require concerted effort. Opening an
-unlocked door as you move, severing a rope securing a chandalier, and knocking
-over random objects as you run through a crowded bazaar are all examples of free
-interactions. If you wish to interact with more than one object or the object in
-the environment requires more effort, you must take the Use an Object action.
-The storyteller has final say on whether or not you can freely interact with an
-object.
+> #### Free Interactions
+> As part of your movement or any action you take, you can freely interact with
+> your equipment and the environment around you. For example, at the start of
+> combat when a character moves and makes an attack with their sword they draw
+> it from its sheath first before swinging it. The act of drawing the sword
+> happens as part of the character's movemnet or the Attack action they take,
+> they do not need to declare a separate action to draw the weapon.
+> 
+> Generally speaking, characters can interact freely with their surroundings
+> once each turn assuming the interaction does not require concerted effort.
+> Opening an unlocked door as you move, severing a rope securing a chandalier,
+> and knocking over random objects as you run through a crowded bazaar are all
+> examples of free interactions. If you wish to interact with more than one
+> object or the object in the environment requires more effort, you must take
+> the Use an Object action. The storyteller has final say on whether or not you
+> can freely interact with an object.
 
 ### Attack
 In combat, the most common action taken is the Attack action. When you take the
