@@ -1,4 +1,4 @@
-# Chapter 4. Character Options
+# Chapter 4. Character Details and Options
 
 {{#include ./game-rules/dispositions.md}}
 

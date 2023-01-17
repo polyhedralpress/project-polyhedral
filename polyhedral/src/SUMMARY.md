@@ -6,7 +6,7 @@
 - [Character Creation](./02-CharacterCreation.md)
 - [Character Origins](./03-CharacterOrigins.md)
 - [Jobs](./04-Jobs.md)
-- [Character Options](./05-CharacterOptions.md)
+- [Character Details & Options](./05-CharacterOptions.md)
 - [Equipment](./06-Equipment.md)
 
 # Part 2: Game Play
