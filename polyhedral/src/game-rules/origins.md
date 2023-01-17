@@ -130,7 +130,7 @@ ___Languages.___ You can speak, read, and write the common tongue, as well as
 ___Traditional Combat Training.___ You have proficiency with the battleaxe, handaxe, hammer, warhammer, and  light and medium armor.<br/>
 ___Stonecraft.___ You are considered proficient and have advantage knowledge
   checks related to stonecraft.<br/>
-___Tool Proficiency.___ You are proficiency with one of the following tools of
+___Tool Proficiency.___ You are proficient with one of the following tools of
   your choice: smith's tools, brewer's supplies, or mason's tools.
 
 Mountain Born
