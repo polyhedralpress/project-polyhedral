@@ -1,6 +1,6 @@
 ##### **FANTASY ARMOR AND SHIELDS**
 
-| Armor                       | Cost (SE)     | Defense Rating (DR)      | Properties                              |
+| Defensive Gear              | Cost (SE)     | Defense                  | Properties                              |
 |-----------------------------|---------------|--------------------------|-----------------------------------------|
 | _Light Armor_                                                                                                    |
 | &nbsp;&nbsp;Padded          | 1 (50 se)     | 11 + Ag modifier         | Disadvantage, light                     |
