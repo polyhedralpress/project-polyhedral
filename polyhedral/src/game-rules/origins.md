@@ -132,17 +132,3 @@ ___Stonecraft.___ You are considered proficient and have advantage knowledge
   checks related to stonecraft.<br/>
 ___Tool Proficiency.___ You are proficient with one of the following tools of
   your choice: smith's tools, brewer's supplies, or mason's tools.
-
-Mountain Born
-Languages
-Stonecunning
-(Dwarven Culture Specific)
-
-Multiple Jobs
-You can branch out into other jobs. No prereqs necessary.
-Do you get any proficiencies? If yes, limit the number to your choice of 1.
-Or, maybed you need to have at least one skill in common with the job?
-
-
-Choose your character's lineage, cultural heritage, and background.
-Assign (ability scores)
