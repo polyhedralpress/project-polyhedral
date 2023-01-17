@@ -78,15 +78,16 @@ characters to travel more quickly. The rules for these alternative methods of
 travel contain more information on the distance that they can cover in a given
 period of time.
 
-#### Difficult Terrain
-The distance an actor can travel in both narrative and action scenes assumes
-that the terrain is easily navigable: flatlands, roads, open plains,
-unobstructed passages, etc. Unfortunately not every landscape is so friendly.
-Thick forests, obstacle-ridden paths, steep-and-difficult to navigate mountains,
-and similar environments often impede a creature's movement. Features like these
-are considered **difficult terrain**.
+#### Hindered Movement
+The distance you can travel in both narrative and action scenes assumes that the
+terrain is easily navigable: flatlands, roads, open plains, unobstructed
+passages, etc. Unfortunately not every landscape is so friendly. Difficult
+terrain such as thick forests, obstacle-ridden paths, steep and hard to navigate
+mountains often impede a creature's movement. Injury or disease can also slow
+you down. When your speed is interfered with by these or similar situations, you
+are hindered (see [Appendix A: Conditions](../appendices/A-Conditions.md).
 
-When traversing difficult terrain you move at half your speed. In an action
-scene, 1 foot of distance over difficult terrain costs 2 feet of your speed. For
-narrative scenes where travel is involved, you are only able to cover half the
-normal distance in a given period of time.
+When hindered you move at half your speed. In an action scene, 1 foot of
+movement while hindered costs 2 feet of your speed. For narrative scenes where
+travel is involved, you are only able to cover half the normal distance in a
+given period of time.
