@@ -212,6 +212,19 @@ within 5 feet of a creature that is hostile toward you and that creature can see
 you and isn't incapacitated. This applies to both ranged weapon attacks and
 ranged spell attacks.
 
+### Opportunity Attacks
+When a creature exposes itself, it opens itself up to an attack called an
+opportunity attack. If the creature is within your reach, you can use your
+reaction to make an opportunity attack.
+
+You provoke an opportunity attack if you move away from a hostile creature
+without taking the Disengage action.
+
+If a creature provokes an opportunity attack from you, you can use your reaction
+to make a single attack against the creature. You can only make one attack when
+you make an opportunity attack even if you have a feature that gives you
+additional attacks.
+
 ### Hidden Attackers and Obscured Targets
 If a combatant is hidden, because they have concealed themselves or because they
 are invisible, attack rolls made against it have disadvantage. If you make an
