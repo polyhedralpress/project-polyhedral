@@ -235,3 +235,136 @@ When you are hidden, you have advantage on attack rolls against creatures that
 cannot see you. If you make an attack while hidden, you give away your location
 regardless of whether you hit or miss with the attack.
 
+## Movement and Positioning
+During combat your movement and position can be tracked using either a battle
+map or something more abstract. This section presents two options for handling
+movement and position in combat.
+
+### Breaking up your Movement
+On your turn you can break up your movement. You can use some of your speed
+before and after you take an action or bonus action.
+
+When you take an action that allows you to make more than one attack, you can
+also break up your movement between each attack.
+
+### Different Movement Speeds
+If you have more than one movement speed, such as your normal speed and a
+fly speed, your effective speed is equal to the greater of the two speeds. On
+your turn, when you move, you may describe your movement as switching between
+the two modes of movement.
+
+For example, if you have a fly speed of 60 feet in addition your standard
+ambulatory speed of 30 feet, your effective speed is 60 feet on your turn. When
+you move you can describe yourself as running before leaping into the air and
+continuing your movement in flight.
+
+### Moving Around Other Creatures
+In combat you sometimes need to move through another creatures space. Moving
+through another creatures space is considered hindered movement for you. The
+rules for moving through the area that another creature is in or that it
+controls is as follows:
+
+- You can move through the space occupied by nonhostile creatures.
+- You can move through the space occupied by a hostile creature only if it is at
+  least two size categories larger or smaller than you.
+- You can't willingly end your move in the space occupied by another creature.
+- If you leave a creature's reach at any point during your move, you immediately
+  provoke an opportunity attack from the creature.
+
+### Tight Spaces
+You can squeeze into a space that is large enough for a creature one size
+smaller than you, for example a large creature can, with some effort, fit
+through a door designed for a medium creature and a medium creature can squeeze
+itself through a hole that a small creature would have no trouble with. When you
+move into and through a tight space you are hindered and you have disadvantage
+on attack rolls as well as Agility saving throws. Attack rolls against you are
+made with advantage until you clear the smaller space.
+
+### Knocked Down
+If you are knocked down or you have intentionally dropped to the ground you are
+considered prone, as described in [Appendix A: Conditions](./appendices/A-Conditions.md).
+
+If you are prone it costs half of your speed in movement to stand up. For
+example if your speed is 30 you must spend at least 15 feet of movement to stand
+up. You can't stand up if you don't have enough speed left or your speed is 0.
+While prone you can only move by crawling or use magic such as teleport.
+Crawling hinders your movement, as per the hindered condition.
+
+On your turn you can drop prone without using any of your speed.
+
+### Using Battle Zones
+For a more abstract representation of the field of battle, you can use battle
+zones. Each zone represents an area that actors can move within and between. For
+tight-quarters combat there may only be one zone, for combat in an open field
+where adversaries start far away from each other it may be typical to have 3 or
+4 zones. Despite being more of an abstract representation of the battle, it can
+be useful to have a visual aid representing the zones of combat. You can use
+pieces of paper, index cards, whatever to represent the zones. If you have a
+miniature or a token you can place it on or adjacent to the zone you begin your
+turn in.
+
+As a general rule, the area of each zone is considered to be about 30 feet. The
+size of a zone is meant to be abstract, but thinking about it in this way makes
+it easier to work with character speeds.
+
+If you have a speed of 25 or more, you can move anywhere within the zone you
+begin your turn in, this allows you to close the distance with another creature
+in the same zone and make a melee attack against it ot to withdraw and make a
+ranged attack against any target in range. If your speed is 50 or more, you can
+move within the zone you begin your turn in as well as move into one adjacent
+zone. Using battle zones encourages characters to take the Dash action to change
+zone.
+
+- If you are currently fighting one creature and change targets to a creature
+  that is not described as being adjacent to you, this requires that you move
+  and you provoke an opportunity attack from any creature you were fighting.
+- If you use your movement to withdraw and make a ranged attack you provide an
+  opportunity attack from any creature that is still near enough to make melee
+  attacks on you.
+- For ranged attacks, the storyteller has final say on whether or not a ranged
+  attack can be made against targets in any zone. If the battle zones are
+  adjacent to one another however, most ranged attacks should be possible
+  against any participant in the battle.
+
+#### Detached Zones
+In large battlefields, one or more zones may be detached from the rest of the
+zones. In this scenario the distance between two detached zones is determined by
+the storyteller and if you are attempting to move from one zone to the other it
+may require several turns to do so. Detached zones may also have an impact on
+ranged attacks.
+
+In some rare cases, the detached zone may not be accessible. The storyteller
+should tell you and the other players when a zone becomes inaccessible and the
+reason why, if the reason is evident. For example if two ships are fighting a
+pitched battle on the open seas, the zones representing each ship are
+inaccessible to participants in either zone so they resort to firing ranged
+weapons and using spells. You may be able to take actions that make an
+inaccessible zone accessible once again, such as steering the ship into the
+other ship effectively linking the two previously detached zones.
+
+### Using a Battle Gird
+For groups that prefer a more tactical approach to combat, including using
+miniatures, you can use battelmaps. A battle map is usually divided into a grid
+with each square reepresenting 5 feet of distance. The players and storyteller
+place the tokens representing the combat participants on the battle map and on
+their turn they move in 5-foot increments across the grid and perform their
+actions.
+
+Using a battle grid gives you a very accurate visual for where creatures are and
+allows you to think more tactically about the actions you take.
+
+## Cover
+Cover provides bonuses to your Defense. You can only benefit from cover if an
+attack or effect originates on the opposite side of the object providing you
+cover. There are three levels of cover, if multiple sources provide cover only
+the source which provides the most protection applies.
+
+- If an obstacle blocks at least half of a target's body, it has half cover.
+  When behind half cover, a target has a +2 bonus to their Defense rating and to
+  Agility saving throws.
+- Obstacles that obscure more than half of a creature but not all of it, provide
+  three-quarters cover. A target has a +5 bonus to their Defense rating if it is
+  behind three-quarters cover.
+- If a creature has total cover, it can't be targeted directly by attacks or
+  spells.
+
