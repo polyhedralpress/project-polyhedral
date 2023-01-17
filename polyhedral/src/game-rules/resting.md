@@ -35,7 +35,7 @@ ___Recover Health.___ You regain all lost health.
 ___Regain Stamina Dice.___ You regain spent Stamina Dice, up to a a number of
 dice equal to half your character's level (minimum 1).
 
-## Resting During Downtime
+## Downtime
 In addition to short and long rests that are taken throughout an adventure,
 characters can take downtime between adventures. This extended period of rest
 can be used to recuperate and prepare for the next adventure, but it can also be
