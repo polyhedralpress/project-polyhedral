@@ -5,3 +5,5 @@
 {{#include ./game-rules/actions.md}}
 
 {{#include ./game-rules/resolve.md}}
+
+{{#include ./game-rules/resting.md}}
