@@ -98,7 +98,7 @@ abilities. Choose one of the two following options:
   choice increases by 1.
 - Three abilities of your choice each increase by 1.
 
-### 4. Selecting a Starting Class
+### 4. Selecting a Starting Job
 Once you have made decisions about your character's origin, disposition, and you
 have assigned ability ranks to the character, choose a starting job for you
 character. Your job identifies the training that your character has undergone up
