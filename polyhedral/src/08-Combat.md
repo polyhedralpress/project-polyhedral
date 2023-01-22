@@ -225,6 +225,12 @@ to make a single attack against the creature. You can only make one attack when
 you make an opportunity attack even if you have a feature that gives you
 additional attacks.
 
+### Rally
+You can use your action to rally yourself, drawing on an inner reserve of
+strength and vigor. By doing so you gain all of the benefits of a short rest.
+After you've rallied yourself, you must complete a long rest before you can use
+this action again.
+
 ### Hidden Attackers and Obscured Targets
 If a combatant is hidden, because they have concealed themselves or because they
 are invisible, attack rolls made against it have disadvantage. If you make an
