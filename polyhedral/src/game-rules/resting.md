@@ -15,8 +15,7 @@ and add your Vitality modifier to it. You regain health equal to the total
 to spend additional Stamina Dice.
 
 ___Treat Wounds.___ You can dress a creature's wounds, including your own.
-Choose one creature, you reduce the number of wounds on that creature by 1 for
-each Stamina Die that it spent to regain health.
+Choose one creature, you reduce the number of wounds on that creature by 1.
 
 ### Long Rest
 You end your day by taking a long rest, requiring at least 8 hours of nothing
