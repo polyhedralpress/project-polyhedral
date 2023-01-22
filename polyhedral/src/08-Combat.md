@@ -342,7 +342,7 @@ weapons and using spells. You may be able to take actions that make an
 inaccessible zone accessible once again, such as steering the ship into the
 other ship effectively linking the two previously detached zones.
 
-### Using a Battle Gird
+### Using a Battle Grid
 For groups that prefer a more tactical approach to combat, including using
 miniatures, you can use battelmaps. A battle map is usually divided into a grid
 with each square reepresenting 5 feet of distance. The players and storyteller
