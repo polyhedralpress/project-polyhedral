@@ -6,4 +6,6 @@
 
 {{#include ./game-rules/resolve.md}}
 
+{{#include ./game-rules/exploration.md}}
+
 {{#include ./game-rules/resting.md}}
