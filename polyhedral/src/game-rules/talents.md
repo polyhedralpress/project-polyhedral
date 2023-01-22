@@ -1,5 +1,5 @@
 ## Talents
 
-{{#include ..\talents\medic.md}}
+{{#include ../talents/medic.md}}
 
-{{#include ..\talents\tough.md}}
+{{#include ../talents/tough.md}}
