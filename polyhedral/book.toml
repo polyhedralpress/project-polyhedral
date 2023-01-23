@@ -8,6 +8,7 @@ src = "src"
 
 [output.html]
 curly-quotes = true
+additional-css = ["./themes/css/override.css"]
 git-repository-url = "https://github.com/polyhedralpress/project-polyhedral"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/polyhedralpress/project-polyhedral/edit/main/polyhedral/{path}"
