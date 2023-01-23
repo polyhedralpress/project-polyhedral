@@ -17,9 +17,11 @@
 
 ---
 
-[Appendix A: Converting to Polyhedral](./appendices/X-Conversions.md)
+[Appendix A: Conditions](./appendices/A-Conditions.md)
 
-[Appendix B: For Game Designers](./appendices/X-ForGameDesigners.md)
+[Appendix ?: Converting to Polyhedral](./appendices/X-Conversions.md)
+
+[Appendix ?: For Game Designers](./appendices/X-ForGameDesigners.md)
 
 [Appendix ?: Miscellany](./appendices/X-Miscellany.md)
 
