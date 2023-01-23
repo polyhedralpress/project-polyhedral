@@ -127,7 +127,8 @@ ___Disposition.___ You were raised in a society with strict laws and codes. This
   has influenced a structured and ordered lifestyle.<br/>
 ___Languages.___ You can speak, read, and write the common tongue, as well as
   the dwarven language.<br/>
-___Traditional Combat Training.___ You have proficiency with the battleaxe, handaxe, hammer, warhammer, and  light and medium armor.<br/>
+___Traditional Combat Training.___ You have proficiency with the battleaxe,
+  handaxe, hammer, warhammer, and  light and medium armor.<br/>
 ___Stonecraft.___ You are considered proficient and have advantage knowledge
   checks related to stonecraft.<br/>
 ___Tool Proficiency.___ You are proficient with one of the following tools of
