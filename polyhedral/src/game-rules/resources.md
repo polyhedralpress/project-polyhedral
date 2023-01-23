@@ -8,13 +8,13 @@ the relative cost of goods to a character's buying power.
 Every character has a Resources rank, which indicates the class of goods that a
 character can buy without endangering their lifestyle.
 
-| Lifestyle   | Resource Rank |
-|-------------|---------------|
-| Poor        | 1-2           |
-| Modest      | 3-4           |
-| Comfortable | 5-6           |
-| Affluent    | 7-8           |
-| Wealthy     | 9-10          |
+| Lifestyle   | Resource Rank | Cost of Good Classification |
+|-------------|---------------|-----------------------------|
+| Poor        | 1-2           | Inexpensive (-/+)           |
+| Modest      | 3-4           | Moderate (-/+)              |
+| Comfortable | 5-6           | Costly (-/+)                |
+| Affluent    | 7-8           | Expensive (-/+)             |
+| Wealthy     | 9-10          | Luxury (-/+)                |
 
 ### Pooling Resources
 Characters can pool their resources to purchase more expensive goods. If two or
