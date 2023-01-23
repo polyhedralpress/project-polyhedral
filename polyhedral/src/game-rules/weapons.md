@@ -23,12 +23,17 @@ ___Finesse.___ When you make an attack with a finesse weapon you can choose to
 use either your Strength or your Agility modifier when determining your bonus to
 attack and damage rolls. You must use the same modifier for both rolls.
 
-___Firearm.___
+___Firearm.___ A type of ranged weapon that fires projectiles using mechanical
+or magical principles. When a creature takes damage from a firearm, they suffer
+at least 1 wound. On a critical hit, the target becomes wounded.
 
 ___Light.___ A light weapon is small and can be used at the same time as another
 one-handed weapon. For more details see the rules on two-weapon fighting.
 
-___Loading.___
+___Loading.___ Because this weapon requires time to load, you can fire only one
+piece of ammunition from it when you make an attack with it using an action,
+bonus action, or reaction, regardless of the number of attacks you can normally
+make.
 
 ___Ranged.___ When you make an attack with a ranged weapon, you use your Agility
 modifier to determine your bonus to attack and damage rolls. A ranged weapon has
