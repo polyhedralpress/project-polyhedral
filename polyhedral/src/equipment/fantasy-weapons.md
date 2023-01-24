@@ -1,7 +1,7 @@
 ##### **FANTASY WEAPONS**
 
-| Weapons                        | Cost      | Damage        | Properties                                                                       |
-|--------------------------------|-----------|---------------|----------------------------------------------------------------------------------|
+| Weapons                        | Cost      | Damage          | Properties                                                                     |
+|:-------------------------------|:----------|:----------------|:-------------------------------------------------------------------------------|
 | _Simple Melee Weapons_                                                                                                                        |
 | &nbsp;&nbsp;Club               | Common    | 1d4 bludgeoning | Light                                                                          |
 | &nbsp;&nbsp;Dagger             | Common    | 1d4 piercing    | Finesse, light, thrown (30/60)                                                 |

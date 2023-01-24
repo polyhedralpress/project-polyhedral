@@ -1,7 +1,7 @@
 ##### **FANTASY ARMOR AND SHIELDS**
 
 | Defensive Gear              | Cost     | Defense Rating           | Properties                              |
-|-----------------------------|----------|--------------------------|-----------------------------------------|
+|:----------------------------|:---------|:-------------------------|:----------------------------------------|
 | _Light Armor_                                                                                               |
 | &nbsp;&nbsp;Padded          | Common   | 12 + Ag modifier         | Disadvantage, light                     |
 | &nbsp;&nbsp;Leather         | Common   | 12 + Ag modifier         | Light                                   |

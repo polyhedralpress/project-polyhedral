@@ -9,7 +9,7 @@ Every character has a Resources rank, which indicates the class of goods that a
 character can buy without endangering their lifestyle.
 
 | Lifestyle   | Resource Rank | Cost of Good Classification |
-|-------------|---------------|-----------------------------|
+|:------------|:--------------|:----------------------------|
 | Poor        | 1-2           | Common                      |
 | Modest      | 3-4           | Uncommon                    |
 | Comfortable | 5-6           | Rare                        |
