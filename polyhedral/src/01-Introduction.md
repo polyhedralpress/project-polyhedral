@@ -27,7 +27,7 @@ games, as well as with a preference toward being an open system with no
 licensing. In addition, it embraces modularity.
 
 ___True, open gaming.___ {{book.product}} is free. It is open source. It has a
-permissive, industry-standard, license—the Creative Commons CC BY license. We
+permissive, industry-standard, license—the Creative Commons CC-BY license. We
 want everyone to use {{book.product}}, to remix it, build on top of, and to
 redistribute it without any barriers.
 
