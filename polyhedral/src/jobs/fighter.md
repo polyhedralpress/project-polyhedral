@@ -1,7 +1,7 @@
 # Fighter
 
 | Rank | Feature                             |
-|------|-------------------------------------|
+|:-----|:------------------------------------|
 |    1 | Fighting Style, Second Wind         |
 |    2 | Action Surge                        |
 |    3 | Martial Path                        |
