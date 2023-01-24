@@ -121,3 +121,35 @@ Upon reaching rank 15, you can choose one limit break ability, provided that you
 meet the requirements for it. In addition, you can continue advancing in this
 job's rank. You gain an additional limit break every 5 ranks, for example you
 gain an additional limit break at rank 20, another at rank 25, rank 30, etc.
+
+## Martial Paths
+The following martial paths are available to fighters.
+
+### Champion
+Your focus is on your raw, physical, power.
+
+#### Improved Critical
+Beginning when you choose this path at rank 3, your weapon attacks score a
+critical hit when you roll a 5 or a 6 on two or more dice when making your
+attack roll.
+
+#### Remarkable Athlete
+Starting at rank 6, your skill bonus is doubled for any Strength or Agility
+check that you have proficiency in. Also, you add half your skill bonus (rounded
+up) to any unskilled Strength, Agility, or Vitality check that you make.
+
+In addition, when you make a long jump, you add your Strength modifier to the
+distance of the jump.
+
+#### Additional Fighting Style
+At rank 8, choose a second option from the Fighting Style job feature.
+
+#### Survivor
+Beginning at rank 10, you regain 5 + your Vitality modifier health at the start
+of each of your turns. You don't gain this benefit if you are poisoned,
+diseased, dead, or if you have 0 health.
+
+#### Superior Critical
+At rank 13, your weapon attacks score a critical hit when you roll a 4,
+5, or 6 on two or more dice when making your attack roll. In addition, you can
+score a critical hit when your dice pool is 2D or greater.
