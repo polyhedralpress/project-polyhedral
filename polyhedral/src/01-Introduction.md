@@ -159,7 +159,7 @@ other circumstances that grant bonuses or impose reductions to your dice pool.
 Your dice pool for any check can not be reduced to less than 1D.
 
 ### Critical Successes
-A critical success occurs on any check you are performing where you roll three
+A critical success occurs on any check you are performing where you roll two
 or more 6's on the dice. You can only score a critical success when your dice
 pool is at least 3D, if your dice pool is greater than 3D (because of advantage
 or some other reason), you have a greater chance of scoring a critical success.
