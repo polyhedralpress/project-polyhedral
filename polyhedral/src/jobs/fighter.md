@@ -1,4 +1,4 @@
-## Fighter
+# Fighter
 
 | Rank | Feature                             |
 |------|-------------------------------------|
@@ -18,17 +18,23 @@
 |   14 | Extra Attack (4 attacks)            |
 |   15 | Limit Break                         |
 
-**Health at Each Rank:** 8 + your Vitality modifier
-**Armor:** light armor, medium armor, heavy armor, shields
-**Weapons:** simple weapons, martial weapons
-**Tools:** none
-**Saves:** Strength, Vitality
-
 The fighter is, perhaps, the purest of martial combatants and epitomizes the
 role of the warrior. Soldiers, mercenaries, many adventurers, and wanders all
 live their life from one battlefield to another. Some warriors spend their lives
 perfecting their martial techniques or honing their skill with a particular
 weapon.
+
+## Class Features
+As a fighter you gain the following features.
+
+#### Health
+**Health at Each Rank:** 8 + your Vitality modifier<br/>
+
+#### Proficiencies
+**Armor:** light armor, medium armor, heavy armor, shields<br/>
+**Weapon:** simple weapons, martial weapons<br/>
+**Tool:** None<br/>
+**Saving Throws:** Strength, Vitality<br/>
 
 ### Fighting Style
 You have trained in a particular fighting-style. Choose one of the options
