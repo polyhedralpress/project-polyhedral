@@ -10,11 +10,11 @@ character can buy without endangering their lifestyle.
 
 | Lifestyle   | Resource Rank | Cost of Good Classification |
 |-------------|---------------|-----------------------------|
-| Poor        | 1-2           | Inexpensive (-/+)           |
-| Modest      | 3-4           | Moderate (-/+)              |
-| Comfortable | 5-6           | Costly (-/+)                |
-| Affluent    | 7-8           | Expensive (-/+)             |
-| Wealthy     | 9-10          | Luxury (-/+)                |
+| Poor        | 1-2           | Common                      |
+| Modest      | 3-4           | Uncommon                    |
+| Comfortable | 5-6           | Rare                        |
+| Affluent    | 7-8           | Very Rare                   |
+| Wealthy     | 9-10          | Legendary                   |
 
 ### Pooling Resources
 Characters can pool their resources to purchase more expensive goods. If two or
