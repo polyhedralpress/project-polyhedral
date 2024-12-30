@@ -1,35 +1,46 @@
 # Chapter 1: Introduction
 
 {{book.product}} is a role-playing game system with collaborative storytelling
-at its core, and it and shares similarities with other narrative forms including
-childhood games of make-believe, writing, and acting.
+at its core. It shares similarities with other narrative forms of entertainment
+including childhood games of make-believe, writing, and acting.
 
 {{book.product}} is fueled by its players' imaginations. The scenarios that are
 described by storytellers to the players are backed by the structure of rules
-and mechanics that allow for fair arbtration of rules. To play {{book.product}},
-players create characters—some times these characters are heroes, some times
-they are villains. {{book.product}} is best played in a group of four-to-five
-players, each playing their own characters. Together, the group might explore
-ancient ruins, a vampire's castle, the outer reaches of the galaxy, and other
-places that are limited only by the group's imagination. At these locations the
-group may talk with other characters that are part of the story's tapestry,
-compete against adversaries, solve puzzles, and discover secrets long since
-buried.
+and mechanics that allow for fair arbitration of the situations that players
+find their characters in.
+
+To play {{book.product}}, players create characters&mdash;usually these
+characters are the heroes of a story, but other times they might be the
+villains. {{book.product}} is best played in a group of four-to-five players,
+with each player controlling their own characters. Together, the group might
+explore ancient ruins, a vampire's castle, the outer reaches of the galaxy, or
+other locations that are limited only by the group's imagination. As they
+interact, the group may talk with other characters that are part of the story's
+tapestry, compete against adversaries, solve puzzles, and discover secrets long
+since buried.
 
 {{book.product}} presents the rules you need to run a game, and nothing you
 don't. It is a system that is designed to be extended and modified to fit the
 needs of the game and the story being told.
 
 ## Why {{book.product}}?
-There are innumerable games and game systems out there, so why choose
-{{book.product}}? {{book.product}} has been built to be compatible with popular
-games, as well as with a preference toward being an open system with no
-licensing. In addition, it embraces modularity.
+There are innumerable tbale top role-playing games and game systems out there,
+so why choose {{book.product}}? {{book.product}} has been built to be compatible
+with popular games, as well as being designed from the ground up as a truly open
+system. The licensing is permissive and anyone can contribute to the game or
+create derivative works. It embraces modularity, providing a core framework of
+rules that can be modified to fit any game.
 
 ___True, open gaming.___ {{book.product}} is free. It is open source. It has a
-permissive, industry-standard, license—the Creative Commons CC-BY license. We
-want everyone to use {{book.product}}, to remix it, build on top of, and to
+permissive, industry-standard, license&mdash;the Creative Commons CC-BY license.
+We want everyone to use {{book.product}}, to remix it, build on top of, and to
 redistribute it without any barriers.
+
+___Genre Agnostic.___ Although {{book.product}} was born from the rules of a
+fantasy-focused game system, there is nothing about its rules that restrict it
+to that genre of games. The goal of {{book.product}} is to provide a framework
+that is just as fun and engaging to play in a science fiction setting as it is
+in a fantasy one.
 
 ___Modular by design.___ The core of {{book.product}} is rules-light. It aims to
 include the absolute minimum set of game rules and details necessary to run a
@@ -46,7 +57,7 @@ The {{book.product}} is divided into a few parts:
 
 - **Part 1** deals with character creation and character details, as well as a
   primer on important aspects of the game (how to make ability checks, etc.)
-- **Part 2** covers rules related to playing the game, combat, and magic.
+- **Part 2** covers rules related to playing the game, combat, and powers.
 
 Throughout this book the rules address you, the player or the storyteller. The
 book will occassionally refer to any character or creature taking an action with
@@ -112,6 +123,50 @@ against the players.
 The following section is a quick overview of the elements of game play in
 {{book.product}}. Some of this is discussed in more detail later in the book.
 
+### Abstractions, not Simulations
+The Foundations Role-Playing Game System does not attempt to simulate real-world
+actions, events, or environments in any detail. Instead, it prioritizes
+abstraction and storytelling over realism. The system emphasizes narrative
+flexibility, where players and the Storyteller collaboratively shape the world
+and actions through creative interpretation rather than rigid adherence to
+realistic cause and effect. Mechanics in {{book.product}} often take a backseat
+to the fluidity of the narrative, allowing for scenes of dramatic importance to
+unfold without being bogged down by the minutiae of physical or logical
+accuracy. 
+
+In keeping with this approach, {{book.product}} encourages the Storyteller to
+actively interpret and modify the rules as needed to preserve the spirit of the
+story rather than strictly simulating outcomes based on physical laws or
+realistic expectations. For example, the game does not simulate the precise
+mechanics of combat, magic, or social interactions in the way a more
+simulationist game might. Instead, it abstracts these elements to facilitate an
+exciting, dynamic experience that focuses on the emotional and narrative weight
+of characters’ actions, rather than the intricate details of how those actions
+would unfold in a real-world setting. This makes the system more about
+storytelling and collaborative creation than it is about an accurate simulation
+of reality.
+
+### Applying Rules
+If two rules seemingly contradict one another, the more specific of the two
+rules is applied. If it isn't clear which rule should be applied or there are no
+rules for a given situation, the Storyteller is responsible for adjudicating and
+resolving the situation. The Storyteller may also decide that they are not using
+certain rules.
+
+If a rule doesn't work for your game, feel free to change it. If a rule is
+getting in the way of having fun, either ignore it or change it. If you have an
+idea that would work better for your group than one presented in
+{{book.product}}, go with it. You are the best judge of what will make your game
+fun. Players are incredibly creative, and if following the written rules leads
+to something that doesn't fit with the story, then the rules are wrong and the
+story is right. The story&mdash;and the enjoyment of everyone at the
+table&mdash;should always take priority over strict rule-following.
+
+### Always Round Down
+Whenever a number is divided in the game, always round down if you end up with a
+fractional number, even if the fraction is one-half or greater. This greatly
+simplifies the math in the game.
+
 ### The D6
 At its core, {{book.product}} is designed to be played using only six-sided
 dice, also known as d6's. Generally a player will roll three six-sided dice, or
@@ -157,24 +212,6 @@ these circumstances to your dice pool.
 The above are only a few examples of common dice pool modifiers. There may be
 other circumstances that grant bonuses or impose reductions to your dice pool.
 Your dice pool for any check can not be reduced to less than 1D.
-
-### Critical Successes
-A critical success occurs on any check you are performing where you roll two
-or more 6's on the dice. You can only score a critical success when your dice
-pool is at least 3D, if your dice pool is greater than 3D (because of advantage
-or some other reason), you have a greater chance of scoring a critical success.
-
-### Applying Rules
-If two rules seemingly contradict one another, the more specific of the two
-rules is applied. If it isn't clear which rule should be applied or there are no
-rules for a given situation, the storyteller is responsible for adjudicating and
-resolving the situation. The storyteller may also decide that they are not using
-certain rules.
-
-### Always Round Down
-Whenever a number is divided in the game, always round down if you end up with a
-fractional number, even if the fraction is one-half or greater. This greatly
-simplifies the math in the game.
 
 {{#include ./game-rules/abilities.md}}
 
