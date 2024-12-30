@@ -10,30 +10,58 @@ during the course of the story.
 
 Creating a character straight forward:
 
-1. Choose your character's origin (lineage, cultural heritage, and background)
-2. Decide on your character's disposition
-3. Assign ranks to your abilities and distribute ability rank bonuses
-4. Select a starting job
-5. Record starting items and equipment
+1. Choose your character's origin (lineage, culture, and background).
+2. Assign ranks to your abilities and distribute ability rank bonuses.
+3. Decide on your character's disposition.
+4. Select a starting job, and record powers, stamina, and wounds.
+5. Spend resources to acquire additional starting items and equipment.
 
 ### 1. Choosing a Character's Origin
-Every character has an origin, this origin includes their biological lineage
-(i.e. human, elf, dwarf, etc.), the culture that they were raised in, as well as
-their background. Your lineage, cultural heritage, and background define the
-traits that your character begins the game with.
+Every character has an origin, this origin includes their lineage (i.e. human,
+elf, dwarf, etc.), the culture that they were raised in, as well as their
+background. Your lineage, cultural heritage, and background define the traits
+that your character begins the game with. Some traits may allow you to choose
+from one or more options, or give you the option to select talents.
 
-Your character's cultural heritage does not need to be the same as your lineage,
-for instance a human may be raised in a dwarven city and therefore begin play
-with one of the dwarven cultural heritages selected.
+The {{book.product}} game system is flexible, games utilizing the system may
+include additional origin options or substitute options for alternatives, i.e.
+in an interstellar setting homeworlds may be used in addition to or instead of
+lineages.
 
-### 2. Decide on your Character's Disposition
-In addition to the aspects from your background, your character has a
-disposition. Your disposition reflects how your character perceives the world
-and carries themself. You can read up more on dispositions in
-[Chapter: Character Options](./05-CharacterOptions.md) and see a list common
-dispositions.
+#### Lineage
+Lineages are most often associated with a character's biological nature,
+depending on the game you are playing this may be referred to race, species, or
+in the case of {{book.product}}: lineage. In most common fantasy games lineage
+would reflect your choice of playing a character that is human, elf, dwarf, etc.
+This book presents common example lineages, for additional lineages refer to the
+materials for the game you are playing or additional supplemental resources.
 
-### 3. Assign Ranks to your Abilities
+#### Culture
+Your character's culture reflects how they were raised. Whereas lineage
+represents your character's nature, culture is your character's _nurture_. 
+
+Choosing a culture provides you with an important piece of your character's
+history. There are no restrictions on your choice of culture. Your character's
+cultural heritage does not need to be the same as your lineage, and in some
+games there may not be a one-to-one mapping between lineage and culture. E.g.
+human raised in a dwarven city might begin play with the human lineage and the
+dwarven culture.
+
+#### Background
+Finally, rounding out your character's origin is their background. Your
+background provides important details about your life prior to the start of the
+game and helps you to better define your character's personality. Perhaps,
+before you became an adventurer, you served as a corageous knight or you were
+apprenticed to a wise scholar. Depending on the setting of the {{book.product}}
+game, the details of your backstory may be different.
+
+When choosing a background, the most important question to ask is: what, if
+anything, changed? Did you stop doing what your background describes? If so,
+why? The sample backgrounds in this book provide examples that can be applied to
+any setting, additional backgrounds may be available for the game you are
+playing or in supplemental material approved by the Storyteller.
+
+### 2. Assign Ranks to your Abilities
 Your ability ranks influence your actions in the world. When you create your
 character you assign starting ranks to each of your abilities.
 
@@ -50,10 +78,10 @@ times: once for each of the six abilities and one extra time. From the seven
 results, choose six of them and assign them to your abilities however you would
 like.
 
-Players may roll their ability ranks individually, or the ability ranks can be
-rolled as a group. When generating ranks as a group, the seven ability ranks
-are rolled and the results are shared by all players; each player chooses and
-assigns their ranks as if they had rolled the results individually.
+Players may roll their ability ranks individually, or as a group. When
+generating ranks as a group, the six ability ranks are rolled and the results
+are shared by all players; each player chooses and assigns their ranks as if
+they had rolled the results individually.
 
 #### Point Buy
 Instead of rolling your ability ranks, players are given a certain number of
@@ -64,11 +92,11 @@ may choose to give players more or fewer points to use when creating their
 characters.
 
 Using the point buy method, every character begins with a starting score of 10
-in each ability and 15 points to spend on increasing their ability ranks. The
-storyteller can opt to give characters additional points to spend during this
-process if they so choose. Increasing an ability score costs 1 or more points.
-You can reduce an ability's starting rank below 10 to a minimum of 8, by doing
-so you gain +1 point which can be used to purchase ranks.
+in each ability and **15 points** to spend on increasing their ability ranks.
+The storyteller can opt to give characters additional points to spend during
+this process if they so choose. Increasing an ability score costs 1 or more
+points. You can reduce an ability's starting rank below 10 to a minimum of 8, by
+doing so you gain +1 point which can be used to purchase ranks.
 
 The table below shows the total cost to purchase an ability score of a
 particular value. In the table below, advancing an ability score to 16 or 17
@@ -91,12 +119,16 @@ above.
 The standard ability ranks array is: 15, 14, 13, 12, 10, and 8
 
 #### Ability Rank Bonuses
-Ability rank bonuses are applied after you've assigned ranks to your character's
-abilities. Choose one of the two following options:
+Ability rank bonuses, chosen from your background, are applied after you've
+assigned ranks to your character's abilities. Choose one of the two following
+options.
 
-- Increase one ability of your choice by 2 and a different ability of your
-  choice increases by 1.
-- Three abilities of your choice each increase by 1.
+### 3. Decide on your Character's Disposition
+In addition to the aspects from your background, your character has a
+disposition. Your disposition reflects how your character perceives the world
+and carries themself. You can read up more on dispositions in
+[Chapter 5: Character Options](./05-CharacterOptions.md) and see a list common
+dispositions.
 
 ### 4. Selecting a Starting Job
 Once you have made decisions about your character's origin, disposition, and you
